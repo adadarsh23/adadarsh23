@@ -12,11 +12,13 @@ My mission is to write clean, maintainable code while learning and applying mode
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -29,6 +31,8 @@ My mission is to write clean, maintainable code while learning and applying mode
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)
 
 **Tools & Platforms**  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -43,14 +47,15 @@ My mission is to write clean, maintainable code while learning and applying mode
 
 ## 🔥 Featured Projects
 
-| Project           | Description                                                                 | Live Demo                                   | GitHub                                              |
-|-------------------|-----------------------------------------------------------------------------|---------------------------------------------|-----------------------------------------------------|
-| **OBRM**          | Automates billing, invoicing, and revenue processes.                        | [Live](https://obrm99.netlify.app/)         | [Repo](https://github.com/adadarsh23/OBRM)          |
-| **Photo Gallery** | Platform to showcase beautiful moments and visuals.                         | [Live](https://photogallery99.netlify.app/) | [Repo](https://github.com/adadarsh23/Photo-Gallery) |
-| **Text App**      | Simple text editing tool with formatting options.                           | [Live](https://text-editor-ad.netlify.app/) | [Repo](https://github.com/adadarsh23/Text-App-)     |
-| **DeshBoard**     | Real-time analytics dashboard with dynamic widgets.                         | [Live](https://ninenine99.netlify.app/)     | [Repo](https://github.com/adadarsh23/NineNine)      |
-| **SachNews**      | Displays global headlines and news using external APIs.                     | [Live](https://sachnews.netlify.app/)       | [Repo](https://github.com/adadarsh23/SachNews)      |
-| **Satan**         | Privacy-first chat interface with no tracking or data collection.           | [Live](https://satan-sable.vercel.app/)     | [Repo](https://github.com/adadarsh23/Satan-)        |
+| Project           | Description                                                                                                                                                                                                                    | Live Demo                                   | GitHub                                              |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | --------------------------------------------------- |
+| **OBRM**          | Automates billing, invoicing, and revenue processes.                                                                                                                                                                           | [Live](https://obrm99.netlify.app/)         | [Repo](https://github.com/adadarsh23/OBRM)          |
+| **Photo Gallery** | Platform to showcase beautiful moments and visuals.                                                                                                                                                                            | [Live](https://photogallery99.netlify.app/) | [Repo](https://github.com/adadarsh23/Photo-Gallery) |
+| **Text App**      | Simple text editing tool with formatting options.                                                                                                                                                                              | [Live](https://text-editor-ad.netlify.app/) | [Repo](https://github.com/adadarsh23/Text-App-)     |
+| **DeshBoard**     | Real-time analytics dashboard with dynamic widgets.                                                                                                                                                                            | [Live](https://ninenine99.netlify.app/)     | [Repo](https://github.com/adadarsh23/NineNine)      |
+| **SachNews**      | Displays global headlines and news using external APIs.                                                                                                                                                                        | [Live](https://sachnews.netlify.app/)       | [Repo](https://github.com/adadarsh23/SachNews)      |
+| **Satan**         | Privacy-first chat interface with no tracking or data collection.                                                                                                                                                              | [Live](https://satan-sable.vercel.app/)     | [Repo](https://github.com/adadarsh23/Satan-)        |
+| **SpeedTest**     | Measure your internet performance in real time with our advanced speed test tool. Get detailed insights on download/upload speeds, ping, latency, IP address, and location info. Works on all devices, no installation needed. | [Live](https://speedtest23.netlify.app/)    | [Repo](https://github.com/adadarsh23/SpeedTest)     |
 
 ---
 
@@ -92,9 +97,9 @@ To enhance app functionality, I often integrate modern tools and APIs:
 
 ## 🏆 Certifications & Achievements
 
-- ✅ *JavaScript Algorithms and Data Structures* – freeCodeCamp  
-- ✅ *MongoDB for Developers* – MongoDB University  
-- 🚀 Participated in multiple online hackathons  
+- ✅ _JavaScript Algorithms and Data Structures_ – freeCodeCamp  
+- ✅ _MongoDB for Developers_ – MongoDB University  
+- 🚀 Participated in multiple online hackathons
 
 ---
 
@@ -107,4 +112,4 @@ To enhance app functionality, I often integrate modern tools and APIs:
 
 ---
 
-> ⭐ *Thanks for stopping by! Feel free to fork, clone, or reach out for collaboration, freelance opportunities, or just to say hello.*
+> ⭐ _Thanks for stopping by! Feel free to fork, clone, or reach out for collaboration, freelance opportunities, or just to say hello._
