@@ -54,7 +54,7 @@ My mission is to write clean, maintainable code while learning and applying mode
 | **DeshBoard**     | Real-time analytics dashboard with dynamic widgets.                                                                                                                                                                            | [Live](https://ninenine99.netlify.app/)     | [Repo](https://github.com/adadarsh23/NineNine)      |
 | **SachNews**      | Displays global headlines and news using external APIs.                                                                                                                                                                        | [Live](https://sachnews.netlify.app/)       | [Repo](https://github.com/adadarsh23/SachNews)      |
 | **Satan**         | Privacy-first chat interface with no tracking or data collection.                                                                                                                                                              | [Live](https://satan-sable.vercel.app/)     | [Repo](https://github.com/adadarsh23/Satan-)        |
-| **SpeedTest**     | Measure your internet performance in real time with our advanced speed test tool. Get detailed insights on download/upload speeds, ping, latency, IP address, and location info. Works on all devices, no installation needed. | [Live](https://speedtest23.netlify.app/)    | [Repo](https://github.com/adadarsh23/SpeedTest)     |
+| **SpeedTest**     | Measure your internet performance in real time. | [Live](https://speedtest23.netlify.app/)    | [Repo](https://github.com/adadarsh23/SpeedTest)     |
 
 ---
 
