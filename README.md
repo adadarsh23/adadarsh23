@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ad Adarsh
 
-### 💻 MERN Stack Developer | Full Stack Builder | Clean Code Advocate
+### 💻 MERN Stack Developer | Full Stack Developer | Frontend Developer
 
 I’m a passionate **Full Stack Developer** focused on building efficient, scalable, and user-friendly web applications.  
 Specializing in the **MERN Stack**, I aim to create seamless experiences from frontend to backend.  
@@ -12,7 +12,6 @@ I love solving real-world problems with code and exploring new technologies ever
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -47,15 +46,17 @@ I love solving real-world problems with code and exploring new technologies ever
 
 ## 🔥 Featured Projects
 
-| Project           | Description                                                                                       | Live Demo                                                                 | Code Repository                                              |
-|-------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------|
-| **OBRM**          | Billing automation app to handle revenue, invoices, and subscription logic                        | <a href="https://boardband23.web.app/" target="_blank">Live</a>           | [GitHub](https://github.com/adadarsh23/OBRM)                 |
-| **Photo Gallery** | A slick image gallery to display & share visual moments                                           | <a href="https://photogallery99.netlify.app/" target="_blank">Live</a>   | [GitHub](https://github.com/adadarsh23/Photo-Gallery)        |
-| **Text App**      | Online text editor with formatting tools                                                          | <a href="https://textapp23.netlify.app/" target="_blank">Live</a>   | [GitHub](https://github.com/adadarsh23/Text-App-)            |
-| **DeshBoard**     | Real-time analytics dashboard with dynamic widgets                                                | <a href="https://ninenine99.netlify.app/" target="_blank">Live</a>       | [GitHub](https://github.com/adadarsh23/NineNine)             |
-| **SachNews**      | Global news app using APIs to fetch live headlines                                                | <a href="https://sachnews.netlify.app/" target="_blank">Live</a>         | [GitHub](https://github.com/adadarsh23/SachNews)             |
-| **Satan**         | Private, secure chat app with zero tracking                                                       | <a href="https://satan-sable.vercel.app/" target="_blank">Live</a>       | [GitHub](https://github.com/adadarsh23/Satan-)               |
-| **SpeedTest**     | Real-time internet speed tester with latency, ping, and more                                      | <a href="https://speedtest23.netlify.app/" target="_blank">Live</a>      | [GitHub](https://github.com/adadarsh23/SpeedTest)            |
+| Project           | Description                                                                                              | Live Demo                                                               | Code Repository                                         |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- |
+| **Grand Hotel**   | Find your perfect stay with comfort, convenience, and charm.                                             | <a href="https://grand-hotel-app.onrender.com" target="_blank">Live</a> | [GitHub](https://github.com/adadarsh23/Grand-Hotel-App) |
+| **OBRM**          | Billing automation app to handle revenue, invoices, and subscription logic                               | <a href="https://boardband23.web.app/" target="_blank">Live</a>         | [GitHub](https://github.com/adadarsh23/OBRM)            |
+| **Photo Gallery** | A slick image gallery to display & share visual moments                                                  | <a href="https://photogallery99.netlify.app/" target="_blank">Live</a>  | [GitHub](https://github.com/adadarsh23/Photo-Gallery)   |
+| **Text App**      | Online text editor with formatting tools                                                                 | <a href="https://textapp23.netlify.app/" target="_blank">Live</a>       | [GitHub](https://github.com/adadarsh23/Text-App-)       |
+| **DeshBoard**     | Real-time analytics dashboard with dynamic widgets                                                       | <a href="https://ninenine99.netlify.app/" target="_blank">Live</a>      | [GitHub](https://github.com/adadarsh23/NineNine)        |
+| **SachNews**      | Global news app using APIs to fetch live headlines                                                       | <a href="https://sachnews.netlify.app/" target="_blank">Live</a>        | [GitHub](https://github.com/adadarsh23/SachNews)        |
+| **Satan**         | Private, secure chat app with zero tracking                                                              | <a href="https://satan-sable.vercel.app/" target="_blank">Live</a>      | [GitHub](https://github.com/adadarsh23/Satan-)          |
+| **SpeedTest**     | Real-time internet speed tester with latency, ping, and more                                             | <a href="https://speedtest23.netlify.app/" target="_blank">Live</a>     | [GitHub](https://github.com/adadarsh23/SpeedTest)       |
+| **Latest Submissions**     | This site shows the latest form submissions in a stylish format, built with Node.js , Express & Mongo DB | <a href="https://mongodb-cr7r.onrender.com" target="_blank">Live</a>    | [GitHub](https://github.com/adadarsh23/MongoDB)         |
 
 ---
 
@@ -95,9 +96,9 @@ Here’s what I love plugging into my projects:
 
 ## 🏅 Certifications & Highlights
 
-- ✅ _JavaScript Algorithms and Data Structures_ – freeCodeCamp  
-- ✅ _MongoDB for Developers_ – MongoDB University  
-- 🥇 Participated in multiple online hackathons  
+- ✅ _JavaScript Algorithms and Data Structures_ – freeCodeCamp
+- ✅ _MongoDB for Developers_ – MongoDB University
+- 🥇 Participated in multiple online hackathons
 - 💻 Actively contributing to open-source (soon more 🔥)
 
 ---
@@ -112,4 +113,3 @@ Here’s what I love plugging into my projects:
 ---
 
 > ⭐ Thanks for checking out my work! Feel free to fork, star, or reach out — whether it’s for collab, freelance, or just a geeky chat.
-
