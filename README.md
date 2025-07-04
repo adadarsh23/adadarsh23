@@ -4,21 +4,22 @@
 
 <h1 align="center">👋 Hey there, I’m Ad Adarsh</h1>
 
-<p align="center">
-  💻 **MERN Stack Developer | Full Stack Developer | Frontend Developer**<br />
-  Passionate about building scalable, fast, and user-centric web apps.
+<p align="center"><strong>
+💻 MERN Stack Developer | Full Stack Developer | Frontend Developer
+</strong><br />
+Passionate about building fast, scalable, and user-focused web applications.
 </p>
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
@@ -26,20 +27,20 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111827?style=flat)
 
-**Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Platforms**  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-**Deployment & CI/CD**
+**Deployment & CI/CD**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
@@ -53,16 +54,16 @@
 
 | Project | Description | Live Demo | Code |
 |---|---|---|---|
-| **Grand Hotel** | Find your perfect stay with comfort, convenience, and charm. | <a href="https://grandhotel-ynab.onrender.com" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/Grand-Hotel-Mern" target="_blank">GitHub</a> |
-| **AI Chat** | Full-featured AI Chat App using modern stack | <a href="https://aichat3.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/Ai-Chat" target="_blank">GitHub</a> |
-| **OBRM** | Billing automation app for revenue, invoices, and subscriptions | <a href="https://boardband23.web.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/OBRM" target="_blank">GitHub</a> |
-| **Photo Gallery** | Image gallery to view, search, and share photos | <a href="https://photogallery99.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/Photo-Gallery" target="_blank">GitHub</a> |
-| **Text App** | Rich online text editor with formatting tools | <a href="https://textapp23.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/Text-App-" target="_blank">GitHub</a> |
-| **Dashboard** | Real-time analytics dashboard with live widgets | <a href="https://ninenine99.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/NineNine" target="_blank">GitHub</a> |
-| **SachNews** | News app using public APIs to fetch live world headlines | <a href="https://sachnews.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/SachNews" target="_blank">GitHub</a> |
-| **Satan** | Secure, private chat app | <a href="https://satan-sable.vercel.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/Satan-" target="_blank">GitHub</a> |
-| **SpeedTest** | Internet speed tester with download/upload speed, latency & ping | <a href="https://speedtest23.netlify.app/" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/SpeedTest" target="_blank">GitHub</a> |
-| **Latest Submissions** | Node.js app to show latest form submissions stylishly | <a href="https://mongodb-cr7r.onrender.com" target="_blank">Live</a> | <a href="https://github.com/adadarsh23/MongoDB" target="_blank">GitHub</a> |
+| **Grand Hotel** | Comfort and charm in one stay. | [Live](https://grandhotel-ynab.onrender.com) | [GitHub](https://github.com/adadarsh23/Grand-Hotel-Mern) |
+| **AI Chat** | AI-powered chat with GIFs, emoji & real-time replies. | [Live](https://aichat3.netlify.app/) | [GitHub](https://github.com/adadarsh23/Ai-Chat) |
+| **OBRM** | Billing automation with subscriptions and revenue tracking. | [Live](https://boardband23.web.app/) | [GitHub](https://github.com/adadarsh23/OBRM) |
+| **Photo Gallery** | View, search, and share beautiful images. | [Live](https://photogallery99.netlify.app/) | [GitHub](https://github.com/adadarsh23/Photo-Gallery) |
+| **Text App** | Feature-rich online text editor. | [Live](https://textapp23.netlify.app/) | [GitHub](https://github.com/adadarsh23/Text-App-) |
+| **Dashboard** | Real-time analytics and live widgets. | [Live](https://ninenine99.netlify.app/) | [GitHub](https://github.com/adadarsh23/NineNine) |
+| **SachNews** | Live world headlines from public APIs. | [Live](https://sachnews.netlify.app/) | [GitHub](https://github.com/adadarsh23/SachNews) |
+| **Satan** | Private and secure chat app. | [Live](https://satan-sable.vercel.app/) | [GitHub](https://github.com/adadarsh23/Satan-) |
+| **SpeedTest** | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/) | [GitHub](https://github.com/adadarsh23/SpeedTest) |
+| **Latest Submissions** | Displays latest form data using Node.js & MongoDB. | [Live](https://mongodb-cr7r.onrender.com) | [GitHub](https://github.com/adadarsh23/MongoDB) |
 
 </div>
 
@@ -81,29 +82,28 @@
 
 ## 🧩 Tech Integrations
 
-- 🔐 **Firebase** – Auth, Hosting, Firestore
-- 🌐 **Giphy API** – Used in Chat App for real-time GIF search
-- 📰 **News API** – Used in SachNews for live headlines
-- 🎨 **Font Awesome / React Icons** – Beautiful icons
-> 🔒 All secrets handled via `.env` configs
+- 🔐 **Firebase** – Auth, Hosting, Firestore  
+- 🌐 **Giphy API** – Real-time GIFs in Chat App  
+- 📰 **News API** – Used in SachNews for global headlines  
+- 🎨 **Font Awesome / React Icons** – For consistent design  
 
 ---
 
 ## 🌱 Currently Learning
 
-- ⚛️ Advanced React & Node.js Patterns
-- 📡 WebSockets & Real-time updates
-- 🔎 GraphQL for optimized queries
-- 🧠 Planning my own **SaaS** product (launch by 2026)
+- ⚛️ Advanced React and Node.js Patterns  
+- 📡 WebSockets and real-time architecture  
+- 🔎 GraphQL for API optimization  
+- 🧠 Building a **SaaS** product — Launching by 2026
 
 ---
 
 ## 🏅 Certifications & Highlights
 
-- ✅ *JavaScript Algorithms and Data Structures* – freeCodeCamp
-- ✅ *MongoDB for Developers* – MongoDB University
-- 🏁 Participated in online hackathons
-- 🛠️ Contributing to open-source (more soon)
+- ✅ *JavaScript Algorithms and Data Structures* – freeCodeCamp  
+- ✅ *MongoDB for Developers* – MongoDB University  
+- 🏁 Hackathon Participation & Project Submissions  
+- 🔧 Open-source contributions (in progress)
 
 ---
 
@@ -127,5 +127,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for stopping by! Star or fork anything you like. Let’s connect for collabs, freelance, or tech talk.
+  ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance, or tech talk.
 </p>
