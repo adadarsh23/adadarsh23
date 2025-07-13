@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" alt="Ad Adarsh Profile Photo" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-<h1 align="center">👋 Hey there, I’m Ad Adarsh</h1>
+<h1 align="center">👋 Hey there, I’m Âd Adarsh</h1>
 
 <p align="center"><strong>
 💻 MERN Stack Developer | Full Stack Developer | Frontend Developer
