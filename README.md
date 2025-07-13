@@ -55,7 +55,7 @@ Passionate about building fast, scalable, and user-focused web applications.
 | Project | Description | Live Demo | Code |
 |---|---|---|---|
 | **Grand Hotel** | Comfort and charm in one stay. | [Live](https://grandhotel-ynab.onrender.com) | [GitHub](https://github.com/adadarsh23/Grand-Hotel-Mern) |
-| **AI Chat** | AI-powered chat with GIFs, emoji & real-time replies. | [Live](https://new-ai-gamma.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai-Chat) |
+| **AI Chat** | AI-powered chat with Chat, Image & real-time replies. | [Live](https://new-ai-gamma.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai) |
 | **OBRM** | Billing automation with subscriptions and revenue tracking. | [Live](https://boardband23.web.app/) | [GitHub](https://github.com/adadarsh23/OBRM) |
 | **Photo Gallery** | View, search, and share beautiful images. | [Live](https://photogallery99.netlify.app/) | [GitHub](https://github.com/adadarsh23/Photo-Gallery) |
 | **Text App** | Feature-rich online text editor. | [Live](https://textapp23.netlify.app/) | [GitHub](https://github.com/adadarsh23/Text-App-) |
