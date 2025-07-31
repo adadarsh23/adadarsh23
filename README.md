@@ -68,10 +68,9 @@
 | **Latest Submissions** | Displays latest form data using Node.js & MongoDB.        | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
 
 ## 🧩 Extensions & Utilities
-
-| Project                            | Description                                     | Link                                                            |
-| :--------------------------------- | :---------------------------------------------- | :-------------------------------------------------------------- |
-| **CapCut Premium remove Extensions** | Extension to hide CapCut premium UI & watermark overlays | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) |
+| Project                                   | Description                                              | GitHub Link                               | Download               |
+|-------------------------------------------|----------------------------------------------------------|-------------------------------------------|------------------------|
+| **CapCut Premium Remover Extension v1.0** | Extension to hide CapCut premium UI & watermark overlays | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension)                          | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
 
 ---
 
