@@ -62,7 +62,6 @@
 | Project            | Description                                               | Live Demo                                   | Code                                                     |
 | :----------------- | :-------------------------------------------------------- | :------------------------------------------ | :------------------------------------------------------- |
 | **Grand Hotel** | Comfort and charm in one stay.                            | [Live](https://grandhotel-ynab.onrender.com) | [GitHub](https://github.com/adadarsh23/Grand-Hotel-Mern) |
-| **AI Chat** | AI-powered chat with Chat, Image & real-time replies.     | [Live](https://ai-three-virid.vercel.app/)  | [GitHub](https://github.com/adadarsh23/Ai)               |
 | **OBRM** | Billing automation with subscriptions and revenue tracking. | [Live](https://boardband23.web.app/)        | [GitHub](https://github.com/adadarsh23/OBRM)             |
 | **Satan** | Private and secure chat app.                              | [Live](https://satan-sable.vercel.app/)     | [GitHub](https://github.com/adadarsh23/Satan-)           |
 | **Latest Submissions** | Displays latest form data using Node.js & MongoDB.        | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
