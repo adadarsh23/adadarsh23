@@ -54,8 +54,8 @@
 | **Photo Gallery** | View, search, and share beautiful images.  | [Live](https://photogallery99.netlify.app/) | [GitHub](https://github.com/adadarsh23/Photo-Gallery) |
 | **Text App** | Feature-rich online text editor.           | [Live](https://textapp23.netlify.app/)      | [GitHub](https://github.com/adadarsh23/Text-App-)     |
 | **Dashboard** | Real-time analytics and live widgets.      | [Live](https://ninenine99.netlify.app/)     | [GitHub](https://github.com/adadarsh23/NineNine)      |
-| **SachNews** | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
 | **SpeedTest** | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
+| **SachNews** | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
 
 ## 🖥️ Backend + Full Stack Projects
 
