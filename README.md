@@ -57,6 +57,13 @@
 | **SpeedTest** | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
 | **SachNews** | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
 
+## Ai & GPU
+
+| Project | Description                                                | Live                                       | GitHub                                      |
+|---------|------------------------------------------------------------|--------------------------------------------|---------------------------------------------|
+| **AI Chat** | AI-powered chat with Chat, Image & real-time replies.  | [Live](https://ai-three-virid.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai)  |
+| **AI**      | AI-powered chat with Chat & real-time replies.         | [Live](https://aichat3.netlify.app/)       | [Github](https://github.com/adadarsh23/Ai-Chat) |
+
 ## 🖥️ Backend + Full Stack Projects
 
 | Project            | Description                                               | Live Demo                                   | Code                                                     |
@@ -65,6 +72,7 @@
 | **OBRM** | Billing automation with subscriptions and revenue tracking. | [Live](https://boardband23.web.app/)        | [GitHub](https://github.com/adadarsh23/OBRM)             |
 | **Satan** | Private and secure chat app.                              | [Live](https://satan-sable.vercel.app/)     | [GitHub](https://github.com/adadarsh23/Satan-)           |
 | **Latest Submissions** | Displays latest form data using Node.js & MongoDB.        | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
+
 
 ## 🧩 Extensions & Utilities
 | Project                                   | Description                                              | GitHub Link                               | Download               |
