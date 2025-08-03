@@ -83,7 +83,7 @@
 
 | Project                                   | Description                                              | GitHub Link                                               | Download                                                                 |
 |-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------|
-| **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time.         | [GitHub](https://github.com/adadarsh23/Date-and-Time-Extension-) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
+| **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time.         | [GitHub](https://github.com/adadarsh23/Date-and-Time-Extension-) | [Download](https://drive.google.com/file/d/14JDOzTYkdagMx5-Vmc-_WXtBR8ZArn8Y/view?usp=drivesdk) |
 | **CapCut Premium Remover Extension v1.0** | Hide CapCut premium UI & watermark overlays              | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
 
 ---
