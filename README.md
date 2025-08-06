@@ -79,7 +79,15 @@
 
 ---
 
-## 🧩 Extensions & Utilities
+## 🧩 Vs Code Extensions & Utilities
+
+| Project                        | Description                     | GitHub Link                                                    |
+|-------------------------------|----------------------------------|----------------------------------------------------------------|
+| **Ghost Theme Extension v1.0.0** | A clean and modern custom VS Code theme extension | [GitHub](https://github.com/adadarsh23/ghost-theme) |
+
+---
+
+## 🧩 Browser Extensions & Utilities
 
 | Project                                   | Description                                              | GitHub Link                                               | Download                                                                 |
 |-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------|
@@ -91,10 +99,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&count_private=true" width="80%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical" width="80%" />
 </p>
 
 ---
