@@ -10,11 +10,11 @@
 <h3 align="center">👋 Hey there, I’m Âd Adarsh</h3>
 
 <!-- Typing Effect -->
-<p align="center">
+<h4>
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer.;Full+Stack+Developer.;Frontend+Developer.;Backend+Developer.;JavaScript+Enthusiast.;Node.js+Expert.;React+UI+Designer.;MongoDB+Data+Architect.;REST+API+Developer.;Express.js+Specialist.;Responsive+Web+Designer.;Performance+Optimization+Expert.;UI%2FUX+Problem+Solver.;Open+Source+Contributor.;Passionate+about+Clean+Code.;Always+Learning+New+Tech.;Tech+Community+Supporter.;Cloud+and+Deployment+Ready.;Version+Control+Pro.;Debugging+and+Troubleshooting+Ninja." alt="Typing SVG">
-</p>
-
-
+</p> 
+</h4>
 
 <p align="center">
   <strong>💻 MERN Stack Developer | Full Stack Developer | Frontend Developer</strong><br>
