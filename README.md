@@ -1,8 +1,29 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" alt="Ad Adarsh Profile Photo" width="200" height="200" style="border-radius: 50%;">
+  <a href="https://github.com/adadarsh23">
+    <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" 
+         alt="Ad Adarsh" 
+         style="border-radius: 50%; 
+                border: 5px solid transparent; 
+                background-image: linear-gradient(white, white), 
+                                  linear-gradient(45deg, #ff00cc, #3333ff); 
+                background-origin: border-box; 
+                background-clip: content-box, border-box;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+                transition: transform 0.3s ease;"
+         width="200"
+         onmouseover="this.style.transform='scale(1.08)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
 </p>
 
 <h1 align="center">👋 Hey there, I’m Âd Adarsh</h1>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer.;Full+Stack+Developer.;Frontend+Developer.;Backend+Developer.;JavaScript+Enthusiast.;Node.js+Expert.;React+UI+Designer.;MongoDB+Data+Architect.;REST+API+Developer.;Express.js+Specialist.;Responsive+Web+Designer.;Performance+Optimization+Expert.;UI%2FUX+Problem+Solver.;Open+Source+Contributor.;Passionate+about+Clean+Code.;Always+Learning+New+Tech.;Tech+Community+Supporter.;Cloud+and+Deployment+Ready.;Version+Control+Pro.;Debugging+and+Troubleshooting+Ninja." alt="Typing SVG">
+</p>
+
+
 
 <p align="center">
   <strong>💻 MERN Stack Developer | Full Stack Developer | Frontend Developer</strong><br>
@@ -48,6 +69,8 @@
 ---
 
 ## 🎨 Frontend Projects
+<details>
+  <summary>📌 Preview</summary>
 
 | Project           | Description                                | Live Demo                                   | Code                                                  |
 |------------------|--------------------------------------------|---------------------------------------------|--------------------------------------------------------|
@@ -57,18 +80,26 @@
 | **SpeedTest**    | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
 | **SachNews**     | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
 
+</details>
+
 ---
 
 ## 🤖 AI & GPU Projects
+<details>
+  <summary>📌 Preview</summary>
 
 | Project    | Description                                        | Live                                       | GitHub                                           |
 |-----------|----------------------------------------------------|--------------------------------------------|--------------------------------------------------|
 | **AI Chat** | Chat with AI using text, image & real-time replies | [Live](https://ai-three-virid.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai)       |
 | **AI**     | Minimal chat UI with fast real-time AI replies     | [Live](https://aichat3.netlify.app/)       | [GitHub](https://github.com/adadarsh23/Ai-Chat)  |
 
+</details>
+
 ---
 
 ## 🖥️ Backend + Full Stack Projects
+<details>
+  <summary>📌 Preview</summary>
 
 | Project             | Description                                            | Live Demo                                   | Code                                                     |
 |---------------------|--------------------------------------------------------|---------------------------------------------|----------------------------------------------------------|
@@ -77,22 +108,32 @@
 | **Satan**           | Secure and private chat app                            | [Live](https://satan-sable.vercel.app/)     | [GitHub](https://github.com/adadarsh23/Satan-)           |
 | **Latest Submissions** | Displays recent form data with Node.js & MongoDB   | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
 
+</details>
+
 ---
 
-## 🧩 Vs Code Extensions & Utilities
+## 🧩 VS Code Extensions & Utilities
+<details>
+  <summary>📌 Preview</summary>
 
 | Project                        | Description                     | GitHub Link                                                    |
 |-------------------------------|----------------------------------|----------------------------------------------------------------|
 | **Ghost Theme Extension v1.0.0** | A clean and modern custom VS Code theme extension | [GitHub](https://github.com/adadarsh23/ghost-theme) |
 
+</details>
+
 ---
 
 ## 🧩 Browser Extensions & Utilities
+<details>
+  <summary>📌 Preview</summary>
 
 | Project                                   | Description                                              | GitHub Link                                               | Download                                                                 |
 |-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------|
-| **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time.         | [GitHub](https://github.com/adadarsh23/Date-and-Time-Extension-) | [Download](https://drive.google.com/file/d/14JDOzTYkdagMx5-Vmc-_WXtBR8ZArn8Y/view?usp=drivesdk) |
+| **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time. | [GitHub](https://github.com/adadarsh23/Date-and-Time-Extension-) | [Download](https://drive.google.com/file/d/14JDOzTYkdagMx5-Vmc-_WXtBR8ZArn8Y/view?usp=drivesdk) |
 | **CapCut Premium Remover Extension v1.0** | Hide CapCut premium UI & watermark overlays              | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
+
+</details>
 
 ---
 
@@ -104,52 +145,58 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical" width="80%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=radical&hide_border=true" width="80%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=react-dark&hide_border=true" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" width="90%" />
+</p>
 
 ---
 
 ## 🔌 Tech Integrations
-
-- 🔐 **Firebase** – Auth, Hosting, Firestore
-- 🌐 **Giphy API** – Real-time GIFs in Chat App
-- 📰 **News API** – Used in SachNews for global headlines
-- 🎨 **Font Awesome / React Icons** – For consistent UI
+- 🔐 **Firebase** – Auth, Hosting, Firestore  
+- 🌐 **Giphy API** – Real-time GIFs in Chat App  
+- 📰 **News API** – Used in SachNews for global headlines  
+- 🎨 **Font Awesome / React Icons** – For consistent UI  
 
 ---
 
 ## 🌱 Currently Learning
-
-- ⚛️ Advanced React & Node.js Patterns
-- 📡 Real-time WebSockets
-- 🔎 GraphQL for efficient APIs
-- 💼 SaaS product architecture (launching by 2026)
-
----
-
-## 🏅 Certifications & Highlights
-
-- ✅ *JavaScript Algorithms and Data Structures* – freeCodeCamp
-- ✅ *MongoDB for Developers* – MongoDB University
-- 🏁 Hackathon Participation & Project Submissions
-- 🔧 Open-source contributions (in progress)
+- ⚛️ Advanced React & Node.js Patterns  
+- 📡 Real-time WebSockets  
+- 🔎 Efficient APIs  
+- 💼 SaaS product architecture (launching by 2026)  
 
 ---
 
 ## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="mailto:adrajpu523@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-adrajpu523@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/adadarsh23/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/>
   </a>
-  <a href="https://linkedin.com/in/adadarsh23" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-adadarsh23-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/adadarsh23/">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"/>
   </a>
-  <a href="https://github.com/adadarsh23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-adadarsh23-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://wa.me/919319247835">
+    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" target="_blank"/>
   </a>
-  <a href="https://twitter.com/AdAdarsh23" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-AdAdarsh23-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/adadarsh23">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank"/>
   </a>
-</p>
+  <a href="https://github.com/adadarsh23">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/>
+  </a>
+  <br/><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" target="_blank" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
+  <br/><br/>
+  <a href="https://github.com/aadarsh231099?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers">
+  </a>
+</div>
 
 ---
 
