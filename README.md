@@ -130,22 +130,46 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&count_private=true" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=radical&hide_border=true" width="60%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=react-dark&hide_border=true" width="70%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" width="70%" />
-</p>
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical" 
+  alt="Top Languages" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&count_private=true" 
+  alt="GitHub Stats" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+
+<!-- Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=radical&hide_border=true" 
+  alt="GitHub Streak" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+<!-- Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=react-dark&hide_border=true" 
+  alt="GitHub Activity Graph" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+<!-- Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" 
+  alt="GitHub Trophies" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+</div>
+
 
 ---
 
@@ -167,35 +191,40 @@
 
 ## 🤝 Let’s Connect
 <div align="center">
-  <a href="https://www.youtube.com/@adadarsh23">
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" target="_blank"/>
+
+  <!-- Social Icons -->
+  <a href="https://www.youtube.com/@adadarsh23" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
   </a>
-  <a href="https://soundcloud.com/adadarsh23">
-    <img src="https://img.icons8.com/fluent/48/000000/soundcloud.png" target="_blank"/>
+  <a href="https://soundcloud.com/adadarsh23" target="_blank">
+    <img src="https://img.icons8.com/color/48/soundcloud.png" alt="SoundCloud"/>
   </a>
-  <a href="https://github.com/adadarsh23">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/>
+  <a href="https://github.com/adadarsh23" target="_blank">
+    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/adadarsh23/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"/>
+  <a href="https://www.instagram.com/adadarsh23/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/919319247835">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" target="_blank"/>
+  <a href="https://wa.me/919319247835" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/adadarsh23/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/>
+  <a href="https://www.linkedin.com/in/adadarsh23/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/adadarsh23">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank"/>
+  <a href="https://twitter.com/adadarsh23" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitterx.png" alt="Twitter"/>
   </a>
-  
+  <!-- Spacing -->
   <br/><br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" target="_blank" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
-  <br/><br/>
-  <a href="https://github.com/aadarsh231099?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
+  <a href="https://github.com/adadarsh23?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"/>
   </a>
+
 </div>
+
+
 
 ---
 
