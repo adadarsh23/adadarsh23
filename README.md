@@ -70,6 +70,7 @@
 | **Text App**     | Feature-rich online text editor.           | [Live](https://textapp23.netlify.app/)      | [GitHub](https://github.com/adadarsh23/Text-App-)     |
 | **Dashboard**    | Real-time analytics and live widgets.      | [Live](https://ninenine99.netlify.app/)     | [GitHub](https://github.com/adadarsh23/NineNine)      |
 | **SpeedTest**    | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
+| **Book**         | List of the Book.                          | [Live](https://adadarsh23.github.io/Book-Project/)| [GitHub](https://github.com/adadarsh23/Book-Project) |
 | **SachNews**     | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
 
 </details>
