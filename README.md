@@ -77,7 +77,7 @@
 
 ---
 
-## 🤖 AI & GPU Projects
+## 🤖 AI & Model Projects
 <details>
   <summary>📌 Preview</summary>
 
