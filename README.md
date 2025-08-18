@@ -230,7 +230,7 @@
   </a> 
   <br/>
   <a href="https://artistsad.netlify.app/" target="_blank">
-    Article Website
+   Artist Website
   </a> 
 
 </div>
