@@ -228,9 +228,9 @@
   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
     My PortFolio
   </a> 
-   <br/><br/>
+  <br/>
   <a href="https://artistsad.netlify.app/" target="_blank">
-    Article Profile
+    Article Website
   </a> 
 
 </div>
