@@ -68,6 +68,7 @@
 | Project           | Description                                | Live Demo                                   | Code                                                  |
 |------------------|--------------------------------------------|---------------------------------------------|--------------------------------------------------------|
 | **Photo Gallery**| View, search, and share beautiful images.  | [Live](https://photogallery99.netlify.app/) | [GitHub](https://github.com/adadarsh23/Photo-Gallery) |
+| **All-In-One Visitor Info**|  Device details to your network and location.| [Live](https://github.com/adadarsh23/All-Info)| [GitHub](https://adadarsh23.github.io/All-Info/) |
 | **Text App**     | Feature-rich online text editor.           | [Live](https://textapp23.netlify.app/)      | [GitHub](https://github.com/adadarsh23/Text-App-)     |
 | **Dashboard**    | Real-time analytics and live widgets.      | [Live](https://ninenine99.netlify.app/)     | [GitHub](https://github.com/adadarsh23/NineNine)      |
 | **SpeedTest**    | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
@@ -228,9 +229,6 @@
     My PortFolio
   </a> 
   <br/>
-  <a href="https://artistsad.netlify.app/" target="_blank">
-   Artist Website
-  </a> 
 
 </div>
 
