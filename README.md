@@ -126,8 +126,9 @@
 | Project                                   | Description                                              | GitHub Link                                               | Download                                                                 |
 |-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------|
 | **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time. | [GitHub](https://github.com/adadarsh23/Analog-Time) | [Download](https://github.com/adadarsh23/Analog-Time) |
-| **Photo Enhance Ai** | Enhance the Photo Just Only One Click. | [GitHub](https://github.com/adadarsh23/Enhance-Photo) | [Download](https://enhance-photo-3tis.onrender.com/) |
-| **Email Sender** | Send Email Directly From Your Browser | [GitHub](https://github.com/adadarsh23/Email-Tool) | [Download](https://email-tool-pm1t.onrender.com/) |
+| **QR Code Generation** | Paste any URL below, click Generate — the QR will appear and you can download the image. | [GitHub](https://github.com/adadarsh23/OR-Code) | [Live](https://qrcodead.netlify.app/) |
+| **Photo Enhance Ai** | Enhance the Photo Just Only One Click. | [GitHub](https://github.com/adadarsh23/Enhance-Photo) | [Live](https://enhance-photo-3tis.onrender.com/) |
+| **Email Sender** | Send Email Directly From Your Browser | [GitHub](https://github.com/adadarsh23/Email-Tool) | [Live](https://email-tool-pm1t.onrender.com/) |
 | **CapCut Premium Remover Extension v1.0** | Hide CapCut premium UI & watermark overlays              | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
 
 </details>
