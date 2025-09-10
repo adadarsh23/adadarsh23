@@ -140,7 +140,7 @@
 
 <!-- Top Languages -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical&hide=c,C++,Cuda" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical&hide=" 
   alt="Top Languages" 
   style="max-width: 100%; height: auto;" 
 />
