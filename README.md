@@ -1,25 +1,36 @@
-<p align="center">
-  <a href="https://github.com/adadarsh23">
-    <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" 
-         alt="Ad Adarsh" 
-         width="200"
-         style="border-radius: 80%;"/>
-  </a>
-</p>
+<div align="center" style="padding: 20px 0; margin: 10px 0;">
+  <div style="position: relative; display: inline-block;">
+    <a href="https://github.com/adadarsh23">
+      <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" 
+           alt="Ad Adarsh" 
+           width="200"
+           style="border-radius: 50%; border: 4px solid #ddddddff; box-shadow: 0 8px 32px rgba(255, 255, 255, 0.3); transition: transform 0.3s ease;"/>
+    </a>
+    <!-- Animated Wave positioned better -->
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+         width="40px" 
+         height="40px" 
+         style="position: absolute; top: 10px; right: 10px;">
+  </div>
+</div>
 
 <h3 align="center">👋 Hey there, I’m Âd Adarsh</h3>
 
-<!-- Typing Effect -->
-<h4>
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer.;Full+Stack+Developer.;Frontend+Developer.;Backend+Developer.;JavaScript+Enthusiast.;Node.js+Expert.;React+UI+Designer.;MongoDB+Data+Architect.;REST+API+Developer.;Express.js+Specialist.;Responsive+Web+Designer.;Performance+Optimization+Expert.;UI%2FUX+Problem+Solver.;Open+Source+Contributor.;Passionate+about+Clean+Code.;Always+Learning+New+Tech.;Tech+Community+Supporter.;Cloud+and+Deployment+Ready.;Version+Control+Pro.;Debugging+and+Troubleshooting+Ninja." alt="Typing SVG">
-</p> 
-</h4>
+<!-- Enhanced Typing Effect with responsive container -->
+<div align="center" style="margin: 20px 0; padding: 0 20px;">
+  <div style="max-width: 100%; overflow: hidden;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=ffffffff&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+💻;Full+Stack+Developer+🚀;Frontend+Developer+🎨;Backend+Developer+⚙️;JavaScript+Enthusiast+⚡;Node.js+Expert+🟢;React+UI+Designer+⚛️;MongoDB+Data+Architect+🍃;REST+API+Developer+🔗;Express.js+Specialist+🚄;Responsive+Web+Designer+📱;Performance+Optimization+Expert+⚡;UI%2FUX+Problem+Solver+🎯;Open+Source+Contributor+🌟;Passionate+about+Clean+Code+✨;Always+Learning+New+Tech+📚;Tech+Community+Supporter+🤝;Cloud+and+Deployment+Ready+☁️;Version+Control+Pro+📝;Debugging+and+Troubleshooting+Ninja+🥷" 
+         alt="Typing SVG"
+         style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
-<p align="center">
-  <strong>💻 MERN Stack Developer | Full Stack Developer | Frontend Developer</strong><br>
-  Passionate about building fast, scalable, and user-focused web applications.
-</p>
+<div align="center" style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.1), rgba(3, 3, 3, 0.3)); padding: 20px; border-radius: 15px; margin: 20px 10px; border: 1px solid rgba(102, 126, 234, 0.2);">
+  <p style="font-size: 1.2em; margin: 0; line-height: 1.6;">
+    <strong style="color: #ffffffff; font-size: 1.1em;">💻 MERN Stack Developer | Full Stack Developer | Frontend Developer</strong><br>
+    <span style="color: #9d9c9cff; font-style: italic; margin-top: 10px; display: inline-block;">Passionate about building fast, scalable, and user-focused web applications.</span>
+  </p>
+</div>
 
 ---
 
@@ -68,9 +79,11 @@
 | Project           | Description                                | Live Demo                                   | Code                                                  |
 |------------------|--------------------------------------------|---------------------------------------------|--------------------------------------------------------|
 | **Photo Gallery**| View, search, and share beautiful images.  | [Live](https://photogallery99.netlify.app/) | [GitHub](https://github.com/adadarsh23/Photo-Gallery) |
-| **All-In-One Visitor Info**|  Device details to your network and location.| [Live](https://adadarsh23.github.io/All-Info/)| [GitHub](https://adadarsh23.github.io/All-Info/) |
+| **All-In-One Visitor Info**|  Device details to your network and location.| [Live](https://adadarsh23.github.io/All-Info-/)| [GitHub](https://github.com/adadarsh23/All-Info-) |
 | **Text App**     | Feature-rich online text editor.           | [Live](https://textapp23.netlify.app/)      | [GitHub](https://github.com/adadarsh23/Text-App-)     |
 | **Dashboard**    | Real-time analytics and live widgets.      | [Live](https://ninenine99.netlify.app/)     | [GitHub](https://github.com/adadarsh23/NineNine)      |
+| **Json-Visualizer**    | Visualizing JSON data with charts and tables. | [Live](https://jsonvisualize.netlify.app/)     | [GitHub](https://github.com/adadarsh23/Json-Visualizer)      |
+| **QR Code Generator**    | Generate custom QR codes for URLs, text, and phone numbers | [Live](https://qrcodead.netlify.app/)     | [GitHub](https://github.com/adadarsh23/OR-Code)      |
 | **SpeedTest**    | Internet speed test with ping and latency. | [Live](https://speedtest23.netlify.app/)    | [GitHub](https://github.com/adadarsh23/SpeedTest)     |
 | **Book**         | List of the Book.                          | [Live](https://adadarsh23.github.io/Book-Project/)| [GitHub](https://github.com/adadarsh23/Book-Project) |
 | **SachNews**     | Live world headlines from public APIs.     | [Live](https://sachnews.netlify.app/)       | [GitHub](https://github.com/adadarsh23/SachNews)      |
@@ -101,7 +114,9 @@
 | **Grand Hotel**     | Comfort and charm in one stay.                         | [Live](https://grandhotel-ynab.onrender.com) | [GitHub](https://github.com/adadarsh23/Grand-Hotel-Mern) |
 | **OBRM**            | Billing automation and revenue tracking                | [Live](https://boardband23.web.app/)        | [GitHub](https://github.com/adadarsh23/OBRM)             |
 | **Satan**           | Secure and private chat app                            | [Live](https://satan-sable.vercel.app/)     | [GitHub](https://github.com/adadarsh23/Satan-)           |
-| **Latest Submissions** | Displays recent form data with Node.js & MongoDB   | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
+| **PhotoEnhance Ai** | PhotoEnhance Ai is a web-based image enhancement tool| [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
+| **Email Tool** | This simple tool allows you to send emails directly from your browser| [Live](https://email-tool-pm1t.onrender.com/)   | [GitHub](https://github.com/adadarsh23/Email-Tool)          |
+| **Latest Submissions** | Displays recent form data with Node.js & MongoDB   | [Live](https://enhance-photo-3tis.onrender.com/)   | [GitHub](https://github.com/adadarsh23/Enhance-Photo)          |
 
 </details>
 
@@ -114,6 +129,7 @@
 | Project                        | Description                     | GitHub Link                                                    |
 |-------------------------------|----------------------------------|----------------------------------------------------------------|
 | **Ghost Theme Extension v1.0.0** | A clean and modern custom VS Code theme extension | [GitHub](https://github.com/adadarsh23/ghost-theme) |
+| **Ai Artemis Extension v1.0.0** | AI-powered code generation assistant that runs locally | [GitHub](https://github.com/adadarsh23/AI-Artemis) |
 
 </details>
 
@@ -126,9 +142,6 @@
 | Project                                   | Description                                              | GitHub Link                                               | Download                                                                 |
 |-------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------|
 | **Analog Clock Extension v1.0.0** | See live time, weather, calendar updates and Count Time. | [GitHub](https://github.com/adadarsh23/Analog-Time) | [Download](https://github.com/adadarsh23/Analog-Time) |
-| **QR Code Generation** | Paste any URL below, click Generate — the QR will appear and you can download the image. | [GitHub](https://github.com/adadarsh23/OR-Code) | [Live](https://qrcodead.netlify.app/) |
-| **Photo Enhance Ai** | Enhance the Photo Just Only One Click. | [GitHub](https://github.com/adadarsh23/Enhance-Photo) | [Live](https://enhance-photo-3tis.onrender.com/) |
-| **Email Sender** | Send Email Directly From Your Browser | [GitHub](https://github.com/adadarsh23/Email-Tool) | [Live](https://email-tool-pm1t.onrender.com/) |
 | **CapCut Premium Remover Extension v1.0** | Hide CapCut premium UI & watermark overlays              | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
 
 </details>
@@ -159,7 +172,6 @@
   alt="GitHub Streak" 
   style="max-width: 100%; height: auto;" 
 />
-
 <!-- Contribution Graph -->
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=react-dark&hide_border=true" 
@@ -167,11 +179,57 @@
   style="max-width: 100%; height: auto;" 
 />
 
+<!-- Profile Summary Card -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=radical" 
+  alt="GitHub Profile Summary" 
+  style="max-width: 100%; height: auto;" 
+/>
+
+<!-- Productive Time and Most Used Languages -->
+<div style="display: flex; justify-content: space-between; gap: 10px; margin: 10px;">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=radical&utcOffset=5.5" 
+    alt="Productive Time" 
+    style="width: 49%; height: auto;" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=radical" 
+    alt="Most Commit Language" 
+    style="width: 49%; height: auto;" 
+  />
+</div>
+
+<!-- Repos per Language and Commits per Language -->
+<div style="display: flex; justify-content: space-between; gap: 10px; margin: 10px;">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=radical" 
+    alt="Repos per Language" 
+    style="width: 49%; height: auto;" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=radical" 
+    alt="GitHub Stats Summary" 
+    style="width: 49%; height: auto;" 
+  />
+</div>
+
+<!-- 3D Contribution Graph -->
+<a href="https://skyline.github.com/adadarsh23/2024" target="_blank">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Statistics%20-%20Click%20for%203D%20Skyline" 
+    alt="Complete GitHub Stats - Click for 3D Skyline View" 
+    style="max-width: 100%; height: auto; border: 2px solid #667eea; border-radius: 10px; transition: transform 0.3s ease;" 
+  />
+</a>
+<p align="center" style="margin-top: 10px; font-size: 0.9em; color: #667eea;">
+  🏙️ <a href="https://skyline.github.com/adadarsh23/2024" target="_blank" style="color: #667eea; text-decoration: none;">View 3D Contribution Skyline</a> 🏙️
+</p>
+
 <!-- Trophies -->
 <img 
   src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" 
-  alt="GitHub Trophies" 
-  style="max-width: 100%; height: auto;" 
+  alt="GitHub Trophies" target="_blank" style=" max-width: 100%; height: auto; color: #667eea; text-decoration: none;"
 />
 
 </div>
@@ -198,27 +256,27 @@
 ## 🤝 Let’s Connect
 <div align="center">
 
-  <!-- Social Icons -->
+  <!-- 3D Social Icons -->
   <a href="https://www.youtube.com/@adadarsh23" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
+    <img src="https://img.icons8.com/3d-fluency/48/youtube-play.png" alt="YouTube"/>
   </a>
   <a href="https://soundcloud.com/adadarsh23" target="_blank">
-    <img src="https://img.icons8.com/color/48/soundcloud.png" alt="SoundCloud"/>
+    <img src="https://img.icons8.com/3d-fluency/48/soundcloud.png" alt="SoundCloud"/>
   </a>
   <a href="https://github.com/adadarsh23" target="_blank">
-    <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/3d-fluency/48/github.png" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/adadarsh23/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/3d-fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://wa.me/919319247835" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/3d-fluency/48/whatsapp.png" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/adadarsh23/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/3d-fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/adadarsh23" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx.png" alt="Twitter"/>
+    <img src="https://img.icons8.com/3d-fluency/48/x.png" alt="Twitter"/>
   </a>
   <!-- Spacing -->
   <br/><br/>
@@ -228,12 +286,27 @@
     <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"/>
   </a>
   <br/><br/>
-  <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
-    My PortFolio
-  </a> 
+  </a>   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Preview"/>
+  </a>
   <br/>
 
 </div>
+
+---
+
+
+## ⭐ Star History Chart
+<p align="center">
+  <a href="https://www.star-history.com/#adadarsh23&Date">
+    <img 
+      src="https://api.star-history.com/svg?repos=adadarsh23&type=Date&theme=light" 
+      alt="Star History Chart" 
+    />
+  </a>
+</p>
+
+
 
 
 
