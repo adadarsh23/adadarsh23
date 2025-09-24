@@ -219,17 +219,14 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Statistics%20-%20Click%20for%203D%20Skyline" 
     alt="Complete GitHub Stats - Click for 3D Skyline View" 
-    style="max-width: 100%; height: auto; border: 2px solid #667eea; border-radius: 10px; transition: transform 0.3s ease;" 
+    style="max-width: 100%; height: auto; " 
   />
 </a>
-<p align="center" style="margin-top: 10px; font-size: 0.9em; color: #667eea;">
-  🏙️ <a href="https://skyline.github.com/adadarsh23/2024" target="_blank" style="color: #667eea; text-decoration: none;">View 3D Contribution Skyline</a> 🏙️
-</p>
 
 <!-- Trophies -->
 <img 
   src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" 
-  alt="GitHub Trophies" target="_blank" style=" max-width: 100%; height: auto; color: #667eea; text-decoration: none;"
+  alt="GitHub Trophies" target="_blank" style=" max-width: 100%; height: auto;"
 />
 
 </div>
@@ -315,3 +312,4 @@
 <p align="center">
   ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance work, or tech talks.
 </p>
+
