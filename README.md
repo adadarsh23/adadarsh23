@@ -4,15 +4,19 @@
       <img src="https://avatars.githubusercontent.com/u/157941812?s=400&u=2265f47f32579a8da4ab64976cc0e5300a8744a6&v=4" 
            alt="Ad Adarsh" 
            width="200"
-           style="border-radius: 50%; border: 4px solid #ddddddff; box-shadow: 0 8px 32px rgba(255, 255, 255, 0.3); transition: transform 0.3s ease;"/>
+           style="border-radius: 50%; border: 4px solid #ffffff; 
+                  box-shadow: 0 8px 32px rgba(255, 255, 255, 0.6); 
+                  filter: grayscale(100%) contrast(120%); 
+                  transition: transform 0.3s ease;"/>
     </a>
-    <!-- Animated Wave positioned better -->
+    <!-- Animated Wave styled in black & white -->
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
          width="40px" 
          height="40px" 
-         style="position: absolute; top: 10px; right: 10px;">
+         style="position: absolute; top: 10px; right: 10px; filter: grayscale(100%);">
   </div>
 </div>
+
 
 <h3 align="center">👋 Hey there, I’m Âd Adarsh</h3>
 
@@ -25,12 +29,17 @@
   </div>
 </div>
 
-<div align="center" style="background: linear-gradient(135deg, rgba(0, 0, 0, 0.1), rgba(3, 3, 3, 0.3)); padding: 20px; border-radius: 15px; margin: 20px 10px; border: 1px solid rgba(102, 126, 234, 0.2);">
+<div align="center" style="background: linear-gradient(135deg, #000000, #1a1a1a); padding: 20px; border-radius: 15px; margin: 20px 10px; border: 1px solid #ffffff33;">
   <p style="font-size: 1.2em; margin: 0; line-height: 1.6;">
-    <strong style="color: #ffffffff; font-size: 1.1em;">💻 MERN Stack Developer | Full Stack Developer | Frontend Developer</strong><br>
-    <span style="color: #9d9c9cff; font-style: italic; margin-top: 10px; display: inline-block;">Passionate about building fast, scalable, and user-focused web applications.</span>
+    <strong style="color: #ffffff; font-size: 1.1em;">
+      💻 MERN Stack Developer | Full Stack Developer | Frontend Developer
+    </strong><br>
+    <span style="color: #cccccc; font-style: italic; margin-top: 10px; display: inline-block;">
+      Passionate about building fast, scalable, and user-focused web applications.
+    </span>
   </p>
 </div>
+
 
 ---
 
@@ -40,6 +49,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -61,8 +71,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ### Deployment & CI/CD
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -149,104 +157,89 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div align="center" style="max-width: 100%;">
 
 <!-- Top Languages -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=radical&hide=" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=aura&hide=" 
   alt="Top Languages" 
-  style="max-width: 100%; height: auto;" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
 
 <!-- GitHub Stats -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&count_private=true" 
+  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&count_private=true" 
   alt="GitHub Stats" 
-  style="max-width: 100%; height: auto;" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
-
 
 <!-- Streak Stats -->
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=radical&hide_border=true" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=aura&hide_border=true" 
   alt="GitHub Streak" 
-  style="max-width: 100%; height: auto;" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
+
 <!-- Contribution Graph -->
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=react-dark&hide_border=true" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
   alt="GitHub Activity Graph" 
-  style="max-width: 100%; height: auto;" 
-/>
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
+ />
+
 
 <!-- Profile Summary Card -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=radical" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=aura" 
   alt="GitHub Profile Summary" 
-  style="max-width: 100%; height: auto;" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
 
 <!-- Productive Time and Most Used Languages -->
-<div style="display: flex; justify-content: space-between; gap: 10px; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=radical&utcOffset=5.5" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=aura&utcOffset=5.5" 
     alt="Productive Time" 
-    style="width: 49%; height: auto;" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=radical" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=aura" 
     alt="Most Commit Language" 
-    style="width: 49%; height: auto;" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
 </div>
 
 <!-- Repos per Language and Commits per Language -->
-<div style="display: flex; justify-content: space-between; gap: 10px; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=radical" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=aura" 
     alt="Repos per Language" 
-    style="width: 49%; height: auto;" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=radical" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=aura" 
     alt="GitHub Stats Summary" 
-    style="width: 49%; height: auto;" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
 </div>
 
 <!-- 3D Contribution Graph -->
 <a href="https://skyline.github.com/adadarsh23/2024" target="_blank">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Statistics%20-%20Click%20for%203D%20Skyline" 
+    src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Statistics%20-%20Click%20for%203D%20Skyline" 
     alt="Complete GitHub Stats - Click for 3D Skyline View" 
-    style="max-width: 100%; height: auto; " 
+    style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
 </a>
 
 <!-- Trophies -->
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=radical&no-frame=true&row=1&column=6" 
-  alt="GitHub Trophies" target="_blank" style=" max-width: 100%; height: auto;"
+  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6" 
+  alt="GitHub Trophies" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;background-color: #000" 
 />
 
 </div>
-
-
----
-
-## 🔌 Tech Integrations
-- 🔐 **Firebase** – Auth, Hosting, Firestore  
-- 🌐 **Giphy API** – Real-time GIFs in Chat App  
-- 📰 **News API** – Used in SachNews for global headlines  
-- 🎨 **Font Awesome / React Icons** – For consistent UI  
-
----
-
-## 🌱 Currently Learning
-- ⚛️ Advanced React & Node.js Patterns  
-- 📡 Real-time WebSockets  
-- 🔎 Efficient APIs  
-- 💼 SaaS product architecture (launching by 2026)  
 
 ---
 
@@ -284,7 +277,7 @@
   </a>
   <br/><br/>
   </a>   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Preview"/>
+    <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black&label=Portfolio&border=10px" alt="Portfolio Preview"/>
   </a>
   <br/>
 
@@ -295,16 +288,14 @@
 
 ## ⭐ Star History Chart
 <p align="center">
-  <a href="https://www.star-history.com/#adadarsh23&Date">
+  <a href="https://www.star-history.com/#adadarsh23,adadarsh23&Date">
     <img 
-      src="https://api.star-history.com/svg?repos=adadarsh23&type=Date&theme=light" 
-      alt="Star History Chart" 
+      src="https://api.star-history.com/svg?repos=adadarsh23&type=Date&theme=neutral" 
+      alt="Star History Chart in Black & White" 
+      style="width: 60%; height: auto; border: 2px solid #fff; border-radius: 10px; padding: 5px; background-color: #000;"
     />
   </a>
 </p>
-
-
-
 
 
 ---
@@ -312,4 +303,3 @@
 <p align="center">
   ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance work, or tech talks.
 </p>
-
