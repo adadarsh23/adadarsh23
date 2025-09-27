@@ -122,9 +122,9 @@
 | **Grand Hotel**     | Comfort and charm in one stay.                         | [Live](https://grandhotel-ynab.onrender.com) | [GitHub](https://github.com/adadarsh23/Grand-Hotel-Mern) |
 | **OBRM**            | Billing automation and revenue tracking                | [Live](https://boardband23.web.app/)        | [GitHub](https://github.com/adadarsh23/OBRM)             |
 | **Satan**           | Secure and private chat app                            | [Live](https://satan-sable.vercel.app/)     | [GitHub](https://github.com/adadarsh23/Satan-)           |
-| **PhotoEnhance Ai** | PhotoEnhance Ai is a web-based image enhancement tool| [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
+| **PhotoEnhance Ai** | PhotoEnhance Ai is a web-based image enhancement tool| [Live](https://enhance-photo-3tis.onrender.com/)   | [GitHub](https://github.com/adadarsh23/Enhance-Photo)          |
 | **Email Tool** | This simple tool allows you to send emails directly from your browser| [Live](https://email-tool-pm1t.onrender.com/)   | [GitHub](https://github.com/adadarsh23/Email-Tool)          |
-| **Latest Submissions** | Displays recent form data with Node.js & MongoDB   | [Live](https://enhance-photo-3tis.onrender.com/)   | [GitHub](https://github.com/adadarsh23/Enhance-Photo)          |
+| **Latest Submissions** | Displays recent form data with Node.js & MongoDB   | [Live](https://mongodb-cr7r.onrender.com)   | [GitHub](https://github.com/adadarsh23/MongoDB)          |
 
 </details>
 
