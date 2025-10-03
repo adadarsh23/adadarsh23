@@ -12,7 +12,6 @@
   </div>
 </div>
 
-
 <h3 align="center">👋 Hey there, I’m Âd Adarsh</h3>
 
 <!-- Enhanced Typing Effect with responsive container -->
@@ -278,9 +277,9 @@
 <p align="center">
   <a href="https://www.star-history.com/#adadarsh23/adadarsh23&Date">
     <img 
-      src="https://api.star-history.com/svg?repos=adadarsh23/adadarsh23&type=Date" 
-      alt="Star History Chart in Black & White" 
-      style="width: 60%; height: auto; border: 2px solid #fff; border-radius: 10px; padding: 5px; background-color: #000;"
+      src="https://api.star-history.com/svg?repos=adadarsh23/adadarsh23&type=Date&theme=dark" 
+      alt="Star History Chart in Dark Theme" 
+      style="width: 60%; height: auto; border: 2px solid #333; border-radius: 10px; padding: 5px; background-color: #0d1117;"
     />
   </a>
 </p>
