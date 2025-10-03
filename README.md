@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
          width="40px" 
          height="40px" 
-         style="position: absolute; top: 10px; right: 10px; filter: grayscale(100%);">
+         style="position: absolute; top: 10px; right: 10px; filter: grayscale(100%);"/>
   </div>
 </div>
 
@@ -180,13 +180,6 @@
   style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
 
-<!-- Contribution Graph -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
-  alt="GitHub Activity Graph" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
- />
-
 
 <!-- Profile Summary Card -->
 <img 
@@ -222,22 +215,20 @@
     style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
 </div>
-
-<!-- 3D Contribution Graph -->
-<a href="https://skyline.github.com/adadarsh23/2024" target="_blank">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&include_all_commits=true&count_private=true&custom_title=Complete%20GitHub%20Statistics%20-%20Click%20for%203D%20Skyline" 
-    alt="Complete GitHub Stats - Click for 3D Skyline View" 
-    style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-  />
-</a>
-
 <!-- Trophies -->
 <img 
   src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6" 
   alt="GitHub Trophies" 
   style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;background-color: #000" 
 />
+<!-- Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
+  alt="GitHub Activity Graph" 
+  width="70%" 
+  style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
+
 
 </div>
 
@@ -270,17 +261,24 @@
   </a>
   <!-- Spacing -->
   <br/><br/>
+  <!-- Buy Me a Coffee -->
+  <a href="https://www.buymeacoffee.com/adadarsh23" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px; width: 200px;" />
+  </a>
+  <!-- Spacing -->
+  <br/><br/>
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
   <a href="https://github.com/adadarsh23?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"/>
   </a>
+  <!-- Spacing -->
   <br/><br/>
-  </a>   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black&label=Portfolio&border=10px" alt="Portfolio Preview"/>
+  <!-- Portfolio -->
+  <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black" alt="Portfolio Preview"/>
   </a>
   <br/>
-
 </div>
 
 ---
@@ -288,14 +286,15 @@
 
 ## ⭐ Star History Chart
 <p align="center">
-  <a href="https://www.star-history.com/#adadarsh23,adadarsh23&Date">
+  <a href="https://www.star-history.com/#adadarsh23/adadarsh23&Date">
     <img 
-      src="https://api.star-history.com/svg?repos=adadarsh23&type=Date&theme=neutral" 
+      src="https://api.star-history.com/svg?repos=adadarsh23/adadarsh23&type=Date" 
       alt="Star History Chart in Black & White" 
       style="width: 60%; height: auto; border: 2px solid #fff; border-radius: 10px; padding: 5px; background-color: #000;"
     />
   </a>
 </p>
+
 
 
 ---
