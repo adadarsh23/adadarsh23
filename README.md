@@ -152,78 +152,77 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="max-width: 100%; padding: 10px; box-sizing: border-box;">
+<div align="center" style="max-width: 100%;">
 
-  <!-- Top Languages -->
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=aura&hide=" 
+  alt="Top Languages" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
+
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&count_private=true" 
+  alt="GitHub Stats" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
+
+<!-- Streak Stats -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=aura&hide_border=true" 
+  alt="GitHub Streak" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
+
+
+<!-- Profile Summary Card -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=aura" 
+  alt="GitHub Profile Summary" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
+
+<!-- Productive Time and Most Used Languages -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=aura" 
-    alt="Top Languages" 
-    style="width: 100%; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=aura&utcOffset=5.5" 
+    alt="Productive Time" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
-
-  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&count_private=true" 
-    alt="GitHub Stats" 
-    style="width: 100%; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=aura" 
+    alt="Most Commit Language" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
+</div>
 
-  <!-- Streak Stats -->
+<!-- Repos per Language and Commits per Language -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=aura&hide_border=true" 
-    alt="GitHub Streak" 
-    style="width: 100%; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=aura" 
+    alt="Repos per Language" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
-
-  <!-- Profile Summary Card -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=aura" 
-    alt="GitHub Profile Summary" 
-    style="width: 100%; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=aura" 
+    alt="GitHub Stats Summary" 
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
   />
-
-  <!-- Productive Time and Most Used Languages -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=aura&utcOffset=5.5" 
-      alt="Productive Time" 
-      style="flex: 1 1 300px; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-    />
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=aura" 
-      alt="Most Commit Language" 
-      style="flex: 1 1 300px; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-    />
-  </div>
-
-  <!-- Repos per Language and Commits per Language -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=aura" 
-      alt="Repos per Language" 
-      style="flex: 1 1 300px; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-    />
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=aura" 
-      alt="GitHub Stats Summary" 
-      style="flex: 1 1 300px; max-width: 500px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-    />
-  </div>
-
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies" 
-    style="width: 100%; max-width: 1000px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px; background-color: #000;" 
-  />
-
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
-    alt="GitHub Activity Graph" 
-    style="width: 100%; max-width: 1000px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-  />
-
+</div>
+<!-- Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6" 
+  alt="GitHub Trophies" 
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;background-color: #000" 
+/>
+<!-- Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
+  alt="GitHub Activity Graph" 
+  width="100%" 
+  style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+/>
 </div>
 
 ---
@@ -259,15 +258,13 @@
   <a href="https://www.buymeacoffee.com/adadarsh23" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px; width: 200px;" />
   </a>
-  <!-- Spacing -->
-  <br/><br/>
+  <br/>
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
   <a href="https://github.com/adadarsh23?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"/>
   </a>
-  <!-- Spacing -->
-  <br/><br/>
+  <br/>
   <!-- Portfolio -->
   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black" alt="Portfolio Preview"/>
