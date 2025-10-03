@@ -20,7 +20,7 @@
   <div style="max-width: 100%; overflow: hidden;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=ffffffff&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+💻;Full+Stack+Developer+🚀;Frontend+Developer+🎨;Backend+Developer+⚙️;JavaScript+Enthusiast+⚡;Node.js+Expert+🟢;React+UI+Designer+⚛️;MongoDB+Data+Architect+🍃;REST+API+Developer+🔗;Express.js+Specialist+🚄;Responsive+Web+Designer+📱;Performance+Optimization+Expert+⚡;UI%2FUX+Problem+Solver+🎯;Open+Source+Contributor+🌟;Passionate+about+Clean+Code+✨;Always+Learning+New+Tech+📚;Tech+Community+Supporter+🤝;Cloud+and+Deployment+Ready+☁️;Version+Control+Pro+📝;Debugging+and+Troubleshooting+Ninja+🥷" 
          alt="Typing SVG"
-         style="max-width: 100%; height: auto;">
+         style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </div>
 </div>
 
