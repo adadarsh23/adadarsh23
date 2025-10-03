@@ -258,13 +258,13 @@
   <a href="https://www.buymeacoffee.com/adadarsh23" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px; width: 200px;" />
   </a>
-  <br/>
+  <br/><br/>
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adadarsh23.adadarsh23" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
   <a href="https://github.com/adadarsh23?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/adadarsh23?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"/>
   </a>
-  <br/>
+  <br/><br/>
   <!-- Portfolio -->
   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black" alt="Portfolio Preview"/>
