@@ -9,11 +9,6 @@
                   filter: grayscale(100%) contrast(120%); 
                   transition: transform 0.3s ease;"/>
     </a>
-    <!-- Animated Wave styled in black & white -->
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
-         width="40px" 
-         height="40px" 
-         style="position: absolute; top: 10px; right: 10px; filter: grayscale(100%);"/>
   </div>
 </div>
 
@@ -225,7 +220,7 @@
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
   alt="GitHub Activity Graph" 
-  width="70%" 
+  width="100%" 
   style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
 
@@ -278,7 +273,6 @@
   <a href="https://adadarsh23.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-adadarsh23-blueviolet?style=for-the-badge&logo=portfoliobox&logoColor=white&labelColor=black" alt="Portfolio Preview"/>
   </a>
-  <br/>
 </div>
 
 ---
