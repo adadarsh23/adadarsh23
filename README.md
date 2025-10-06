@@ -1,7 +1,7 @@
 <div align="center" style="padding: 20px 0; margin: 10px 0;">
   <div style="position: relative; display: inline-block;">
     <a href="https://github.com/adadarsh23">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVxOHNsMnllaHlkcHUxbnpqeGdpb2l2cjVtZ20waTUxc2l5bDFzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" 
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHltbG1obzl5cGlnYnNmbDVqeXd1c29uNHo2cGg5MXZmZmRiNXhncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8BDQnNDcocWSnHZLPB/giphy.gif" 
            alt="Ad Adarsh" 
            width="200"
            style="border-radius: 50%; border: 4px solid #ffffff; 
@@ -315,3 +315,4 @@
 <p align="center">
   ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance work, or tech talks.
 </p>
+
