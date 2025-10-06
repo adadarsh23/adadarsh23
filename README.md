@@ -1,14 +1,3 @@
-<!-- Header -->
-<Header>
-<div>
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=headerY=50&color=undefined" 
-    style="width: 100%; filter: grayscale(100%);" 
-    alt="Waving header"
-  />
-</div>
-</Header>
-
 <div align="center" style="padding: 20px 0; margin: 10px 0;">
   <div style="position: relative; display: inline-block;">
     <a href="https://github.com/adadarsh23">
@@ -250,27 +239,6 @@
 
 ---
 
-## 🎨 Animations
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
-<!--Snake Animation -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/adadarsh23/adadarsh23/master/assets/snake.gif" alt="Snake animation"
-  width="100%" 
-  style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
-/>
-</div>
-
-<!-- PacMan Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adadarsh23/adadarsh23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adadarsh23/adadarsh23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adadarsh23/adadarsh23/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
----
-
 ## 🤝 Let’s Connect
 
 <div align="center">
@@ -347,13 +315,3 @@
 <p align="center">
   ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance work, or tech talks.
 </p>
-
-<footer>
-  <div>
-    <img 
-      src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=undefined" 
-      style="width: 100%; filter: grayscale(100%);" 
-      alt="Waving footer"
-    />
-  </div>
-</footer>
