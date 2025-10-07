@@ -106,6 +106,7 @@
 
 | Project     | Description                                        | Live                                       | GitHub                                          |
 | ----------- | -------------------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
+| **AI Assistent** | Hello! I’m your 🤖 AI Assistant. How can I help you today? | [Live](https://ai-assistance-ad.netlify.app/) | [GitHub](https://github.com/adadarsh23/AI-Assistant)      |
 | **AI Chat** | Chat with AI using text, image & real-time replies | [Live](https://ai-three-virid.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai)      |
 | **AI**      | Minimal chat UI with fast real-time AI replies     | [Live](https://aichat3.netlify.app/)       | [GitHub](https://github.com/adadarsh23/Ai-Chat) |
 
