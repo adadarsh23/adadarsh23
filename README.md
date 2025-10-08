@@ -86,7 +86,7 @@
 | Project                     | Description                                                | Live Demo                                          | Code                                                    |
 | --------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- |
 | **Photo Gallery**           | View, search, and share beautiful images.                  | [Live](https://photogallery99.netlify.app/)        | [GitHub](https://github.com/adadarsh23/Photo-Gallery)   |
-| **Profile Website**           | Welcome to My Profile — Gamer, Coder, and Producer         | [Live](https://adadarsh23.netlify.app/)          | [GitHub](https://github.com/adadarsh23/Profile-Website)   |
+| **Music Website**           | Welcome to My Profile — Music Producer                     | [Live](https://adadarsh23.netlify.app/)            | [GitHub](https://github.com/adadarsh23/Profile-Website)   |
 | **All-In-One Visitor Info** | Device details to your network and location.               | [Live](https://adadarsh23.github.io/All-Info-/)    | [GitHub](https://github.com/adadarsh23/All-Info-)       |
 | **Text App**                | Feature-rich online text editor.                           | [Live](https://textapp23.netlify.app/)             | [GitHub](https://github.com/adadarsh23/Text-App-)       |
 | **Dashboard**               | Real-time analytics and live widgets.                      | [Live](https://ninenine99.netlify.app/)            | [GitHub](https://github.com/adadarsh23/NineNine)        |
