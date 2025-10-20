@@ -12,7 +12,11 @@
   </div>
 </div>
 
-<h3 align="center">👋 Hey there, I’m Âd Adarsh</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="\👋" width="28" style="vertical-align: \middle; margin-right: \6px;" />
+  Hey there, I’m Âd Adarsh
+</h3>
+
 
 <!-- Enhanced Typing Effect with responsive container -->
 <div align="center" style="margin: 20px 0; padding: 0 20px;">
@@ -86,7 +90,7 @@
 | Project                     | Description                                                | Live Demo                                          | Code                                                    |
 | --------------------------- | ---------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- |
 | **Photo Gallery**           | View, search, and share beautiful images.                  | [Live](https://photogallery99.netlify.app/)        | [GitHub](https://github.com/adadarsh23/Photo-Gallery)   |
-| **Music Website**           | Welcome to My Profile — Music Producer                     | [Live](https://adadarsh23.netlify.app/)            | [GitHub](https://github.com/adadarsh23/Profile-Website)   |
+| **Music Website**           | Welcome to My Profile — Music Producer                     | [Live](https://adadarsh23.netlify.app/)            | [GitHub](https://github.com/adadarsh23/Profile-Website) |
 | **All-In-One Visitor Info** | Device details to your network and location.               | [Live](https://adadarsh23.github.io/All-Info-/)    | [GitHub](https://github.com/adadarsh23/All-Info-)       |
 | **Text App**                | Feature-rich online text editor.                           | [Live](https://textapp23.netlify.app/)             | [GitHub](https://github.com/adadarsh23/Text-App-)       |
 | **Dashboard**               | Real-time analytics and live widgets.                      | [Live](https://ninenine99.netlify.app/)            | [GitHub](https://github.com/adadarsh23/NineNine)        |
@@ -105,11 +109,11 @@
 <details>
   <summary>📌 Preview</summary>
 
-| Project     | Description                                        | Live                                       | GitHub                                          |
-| ----------- | -------------------------------------------------- | ------------------------------------------ | ----------------------------------------------- |
-| **AI Assistent** | Hello! I’m your 🤖 AI Assistant. How can I help you today? | [Live](https://ai-assistance-ad.netlify.app/) | [GitHub](https://github.com/adadarsh23/AI-Assistant)      |
-| **AI Chat** | Chat with AI using text, image & real-time replies | [Live](https://ai-three-virid.vercel.app/) | [GitHub](https://github.com/adadarsh23/Ai)      |
-| **AI**      | Minimal chat UI with fast real-time AI replies     | [Live](https://aichat3.netlify.app/)       | [GitHub](https://github.com/adadarsh23/Ai-Chat) |
+| Project          | Description                                                | Live                                          | GitHub                                               |
+| ---------------- | ---------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------- |
+| **AI Assistent** | Hello! I’m your 🤖 AI Assistant. How can I help you today? | [Live](https://ai-assistance-ad.netlify.app/) | [GitHub](https://github.com/adadarsh23/AI-Assistant) |
+| **AI Chat**      | Chat with AI using text, image & real-time replies         | [Live](https://ai-three-virid.vercel.app/)    | [GitHub](https://github.com/adadarsh23/Ai)           |
+| **AI**           | Minimal chat UI with fast real-time AI replies             | [Live](https://aichat3.netlify.app/)          | [GitHub](https://github.com/adadarsh23/Ai-Chat)      |
 
 </details>
 
@@ -189,6 +193,11 @@
   style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
 
+ <!-- Top Contributed Repo -->
+
+<img src="https://github-contributor-stats.vercel.app/api?username=adadarsh23&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
+ />
+
 <!-- Profile Summary Card -->
 
 <img 
@@ -237,6 +246,7 @@
   width="100%" 
   style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
 />
+
 </div>
 
 ---
@@ -317,4 +327,3 @@
 <p align="center">
   ⭐ Thanks for stopping by! Star or fork any project you like. Open to collaborations, freelance work, or tech talks.
 </p>
-
