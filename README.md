@@ -13,10 +13,9 @@
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="\👋" width="28" style="vertical-align: \middle; margin-right: \6px;" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" width="28" style="vertical-align: middle; margin-right: 6px;" />
   Hey there, I’m Âd Adarsh
 </h3>
-
 
 <!-- Enhanced Typing Effect with responsive container -->
 <div align="center" style="margin: 20px 0; padding: 0 20px;">
@@ -79,6 +78,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+
+---
+
+## 🗃️ Projects
+
+---
+
+<details>
+  <summary>📌 Preview</summary>
 
 ---
 
@@ -163,6 +172,8 @@
 
 </details>
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -172,46 +183,47 @@
 <!-- Top Languages -->
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=aura&hide=" 
-  alt="Top Languages" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adadarsh23&layout=compact&theme=aura&hide="
+  alt="Top Languages"
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
 />
 
 <!-- GitHub Stats -->
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&count_private=true" 
-  alt="GitHub Stats" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+  src="https://github-readme-stats.vercel.app/api?username=adadarsh23&show_icons=true&theme=aura&count_private=true"
+  alt="GitHub Stats"
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
 />
 
 <!-- Streak Stats -->
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=aura&hide_border=true" 
-  alt="GitHub Streak" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=adadarsh23&theme=aura&hide_border=true"
+  alt="GitHub Streak"
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
 />
 
  <!-- Top Contributed Repo -->
 
-<img src="https://github-contributor-stats.vercel.app/api?username=adadarsh23&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=adadarsh23&limit=5&theme=aura&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
  />
 
 <!-- Profile Summary Card -->
 
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=aura" 
-  alt="GitHub Profile Summary" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adadarsh23&theme=aura"
+  alt="GitHub Profile Summary"
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
 />
 
 <!-- Productive Time and Most Used Languages -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=aura&utcOffset=5.5" 
-    alt="Productive Time" 
-    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adadarsh23&theme=aura&utcOffset=5.5"
+    alt="Productive Time"
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
   />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adadarsh23&theme=aura" 
@@ -223,31 +235,48 @@
 <!-- Repos per Language and Commits per Language -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px; width: 100%;">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=aura" 
-    alt="Repos per Language" 
-    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adadarsh23&theme=aura"
+    alt="Repos per Language"
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=aura" 
-    alt="GitHub Stats Summary" 
-    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adadarsh23&theme=aura"
+    alt="GitHub Stats Summary"
+    style="flex: 1 1 45%; min-width: 250px; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
   />
 </div>
 <!-- Trophies -->
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6" 
-  alt="GitHub Trophies" 
-  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;background-color: #000" 
+  src="https://github-profile-trophy.vercel.app/?username=adadarsh23&theme=aura&no-frame=true&row=1&column=6"
+  alt="GitHub Trophies"
+  style="max-width: 100%; height: auto; border: 2px solid #000000ff; border-radius: 10px; margin: 5px;background-color: #000"
 />
 <!-- Contribution Graph -->
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true" 
-  alt="GitHub Activity Graph" 
-  width="100%" 
-  style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adadarsh23&theme=tokyo-night&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="100%"
+  style="border: 2px solid #000000ff; border-radius: 10px; margin: 5px;"
 />
 
 </div>
+
+---
+
+## 🎧 Song
+
+<div align="center">
+
+Here are some tracks I’ve been listening to and working with:
+
+<br>
+
+| Cover | Title         | Artist    | Link |
+|-------|---------------|-----------|------|
+| 🎵 | **Silent Ritual** | Âd Adarsh | [Listen](https://open.spotify.com/album/6n4QRnfZ9SC7NXDftKam4S?si=-xodMcVKRimPVTfb3zIbOg) |
+
+</div>
+
 
 ---
 
