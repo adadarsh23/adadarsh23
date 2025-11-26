@@ -82,15 +82,6 @@
 
 ---
 
-## 🗃️ Projects
-
----
-
-<details>
-  <summary>📌 Preview</summary>
-
----
-
 ## 🎨 Frontend Projects
 
 <details>
@@ -169,8 +160,6 @@
 | ----------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
 | **Analog Clock Extension v1.0.0**         | See live time, weather, calendar updates and Count Time. | [GitHub](https://github.com/adadarsh23/Analog-Time)                      | [Download](https://github.com/adadarsh23/Analog-Time)                                        |
 | **CapCut Premium Remover Extension v1.0** | Hide CapCut premium UI & watermark overlays              | [GitHub](https://github.com/adadarsh23/CapCut-Premium-Remover-Extension) | [Download](https://drive.google.com/uc?export=download&id=116K39iLZyOsXViwFqwdROPKfCRUqoWg2) |
-
-</details>
 
 </details>
 
